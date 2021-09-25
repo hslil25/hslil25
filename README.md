@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Halil Tataroğlu {Halil Tʰatʰaɾo:ɫu}
+- 👋 Hey! I’m Halil Tataroğlu {Halil Tʰatʰaɾo:ɫu}. I was born in 2003 (according to the Gregorian calendar).
 - I'm a freshman at Bilkent University studying computer science.
 - I plan to graduate in 2025.
 - halil00tataroglu@gmail.com - 7/24
