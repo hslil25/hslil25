@@ -1,5 +1,5 @@
-- 👋 Hey! I’m Halil Tataroğlu {Halil Tʰatʰaɾo:ɫu}. I was born in 2003 (according to the Gregorian calendar). I am living in 🇹🇷 but not İstanbul.
-- I'm a freshman at Bilkent University studying computer science.
+- 👋 Hey! I’m Halil Tataroğlu {Halil Tʰatʰaɾo:ɫu}. I was born in 2003. I am living in 🇹🇷.
+- I'm a freshman at Bilkent University and studying computer science.
 - I plan to graduate in 2025.
 - halil00tataroglu@gmail.com
 
